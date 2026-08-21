@@ -1,0 +1,2 @@
+# Add environment-specific GUID replacement rules only where dependency binding
+# or a Fabric Variable Library is not sufficient. Keep secrets out of this file.

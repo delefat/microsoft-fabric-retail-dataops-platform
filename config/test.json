@@ -1,0 +1,1 @@
+{"environment":"TEST","workspace_name":"Fabric-DataOps-TEST","source_lakehouse":"LH_Retail_Source","data_lakehouse":"LH_Retail_Lakehouse","warehouse":"WH_Retail","pipeline":"PL_02_Retail_Incremental_DataOps"}

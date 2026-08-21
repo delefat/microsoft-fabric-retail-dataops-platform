@@ -1,0 +1,12 @@
+SELECT CustomerID,COUNT(*) Cnt FROM dbo.DimCustomer WHERE CustomerID='C0101' GROUP BY CustomerID;
+SELECT ProductID,COUNT(*) Cnt FROM dbo.DimProduct WHERE ProductID='P0031' GROUP BY ProductID;
+SELECT StoreID,COUNT(*) Cnt FROM dbo.DimStore WHERE StoreID='S006' GROUP BY StoreID;
+SELECT OrderID,OrderItemID,NetAmount FROM dbo.FactSales WHERE OrderID IN('O000501','O000502');
+SELECT COUNT(*) DimCustomerCount FROM dbo.DimCustomer;
+SELECT COUNT(*) DimProductCount FROM dbo.DimProduct;
+SELECT COUNT(*) DimStoreCount FROM dbo.DimStore;
+SELECT COUNT(*) FactSalesCount FROM dbo.FactSales;
+SELECT COUNT(*) FactInventoryCount FROM dbo.FactInventory;
+SELECT COUNT(*) OrphanCustomers FROM dbo.FactSales f LEFT JOIN dbo.DimCustomer d ON f.CustomerKey=d.CustomerKey WHERE d.CustomerKey IS NULL;
+SELECT COUNT(*) OrphanProducts FROM dbo.FactSales f LEFT JOIN dbo.DimProduct d ON f.ProductKey=d.ProductKey WHERE d.ProductKey IS NULL;
+SELECT COUNT(*) OrphanStores FROM dbo.FactSales f LEFT JOIN dbo.DimStore d ON f.StoreKey=d.StoreKey WHERE d.StoreKey IS NULL;

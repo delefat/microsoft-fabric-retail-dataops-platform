@@ -1,0 +1,3 @@
+CustomerID,CustomerName,Email,City,Region,CustomerType,CreatedDate,SourceUpdatedAt
+C0001,Amelia Smith,amelia.smith1@example.com,Manchester,North West,Consumer,2024-01-15,2026-08-18T09:00:00
+C0101,Daniel Green,daniel.green101@example.com,Bristol,South West,Small Business,2026-08-18,2026-08-18T09:05:00

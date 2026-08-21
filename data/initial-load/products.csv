@@ -1,0 +1,31 @@
+ProductID,ProductName,Category,UnitCost,UnitPrice,IsActive
+P0001,Laptop 1,Computing,577.7,905.04,1
+P0002,Laptop 2,Computing,471.15,688.44,1
+P0003,Monitor 1,Computing,268.78,357.79,1
+P0004,Monitor 2,Computing,451.64,786.29,1
+P0005,Keyboard 1,Computing,561.38,975.12,1
+P0006,Keyboard 2,Computing,509.3,697.93,1
+P0007,Mouse 1,Computing,525.61,858.19,1
+P0008,Mouse 2,Computing,309.99,482.52,1
+P0009,Docking Station 1,Computing,597.59,786.87,1
+P0010,Docking Station 2,Computing,99.67,150.06,1
+P0011,Smartphone 1,Mobile,352.27,548.63,1
+P0012,Smartphone 2,Mobile,216.48,360.52,1
+P0013,Tablet 1,Mobile,296.03,502.73,1
+P0014,Tablet 2,Mobile,581.43,863.25,1
+P0015,Power Bank 1,Mobile,590.85,883.47,1
+P0016,Power Bank 2,Mobile,116.07,200.08,1
+P0017,Wireless Charger 1,Mobile,300.79,500.36,1
+P0018,Wireless Charger 2,Mobile,548.31,769.02,1
+P0019,Headphones 1,Audio,508.82,771.64,1
+P0020,Headphones 2,Audio,166.92,249.03,1
+P0021,Speaker 1,Audio,468.1,645.5,1
+P0022,Speaker 2,Audio,228.26,397.44,1
+P0023,Microphone 1,Audio,66.17,88.2,1
+P0024,Microphone 2,Audio,258.23,344.49,1
+P0025,Desk Chair 1,Home Office,150.86,223.0,1
+P0026,Desk Chair 2,Home Office,225.11,339.07,1
+P0027,Desk Lamp 1,Home Office,54.54,93.16,1
+P0028,Desk Lamp 2,Home Office,262.32,438.96,1
+P0029,Webcam 1,Home Office,615.75,776.3,1
+P0030,Webcam 2,Home Office,574.22,899.59,1

@@ -1,0 +1,101 @@
+CustomerID,CustomerName,Email,City,Region,CustomerType,CreatedDate
+C0001,Oliver Smith,oliver.smith1@example.com,Glasgow,Scotland,Consumer,2024-08-16
+C0002,Muhammad Jones,muhammad.jones2@example.com,Guildford,South East,Corporate,2025-07-12
+C0003,Arthur Johnson,arthur.johnson3@example.com,London,London,Consumer,2024-04-05
+C0004,George Patel,george.patel4@example.com,Guildford,South East,Consumer,2025-07-28
+C0005,Muhammad Evans,muhammad.evans5@example.com,Guildford,South East,Corporate,2025-03-05
+C0006,Leo Khan,leo.khan6@example.com,Brighton,South East,Consumer,2024-06-12
+C0007,Mia Wilson,mia.wilson7@example.com,Glasgow,Scotland,Consumer,2024-08-08
+C0008,Oliver Jones,oliver.jones8@example.com,Coventry,Midlands,Consumer,2025-01-02
+C0009,Arthur Williams,arthur.williams9@example.com,Birmingham,Midlands,Corporate,2025-04-15
+C0010,Oliver Johnson,oliver.johnson10@example.com,Leeds,Yorkshire,Corporate,2024-10-27
+C0011,Arthur Wilson,arthur.wilson11@example.com,Edinburgh,Scotland,Corporate,2024-03-12
+C0012,Grace Brown,grace.brown12@example.com,London,London,Consumer,2024-08-26
+C0013,Mia Williams,mia.williams13@example.com,London,London,Corporate,2025-01-08
+C0014,Noah Wilson,noah.wilson14@example.com,Reading,South East,Corporate,2024-09-30
+C0015,Freya Evans,freya.evans15@example.com,Edinburgh,Scotland,Corporate,2025-10-12
+C0016,Sophia Thomas,sophia.thomas16@example.com,Reading,South East,Consumer,2025-04-18
+C0017,Ava Evans,ava.evans17@example.com,Manchester,North West,Corporate,2024-11-28
+C0018,George Smith,george.smith18@example.com,London,London,Small Business,2024-10-01
+C0019,George Khan,george.khan19@example.com,London,London,Consumer,2025-11-02
+C0020,Mia Evans,mia.evans20@example.com,Liverpool,North West,Consumer,2024-09-28
+C0021,George Thomas,george.thomas21@example.com,Guildford,South East,Corporate,2024-09-26
+C0022,Arthur Johnson,arthur.johnson22@example.com,Glasgow,Scotland,Small Business,2024-08-12
+C0023,Sophia Davies,sophia.davies23@example.com,Reading,South East,Consumer,2024-04-22
+C0024,Grace Taylor,grace.taylor24@example.com,Guildford,South East,Small Business,2025-09-02
+C0025,Mia Johnson,mia.johnson25@example.com,London,London,Corporate,2024-09-14
+C0026,Jack Smith,jack.smith26@example.com,Leeds,Yorkshire,Corporate,2025-07-03
+C0027,Lily Evans,lily.evans27@example.com,Coventry,Midlands,Consumer,2024-10-27
+C0028,Isla Davies,isla.davies28@example.com,Manchester,North West,Corporate,2024-09-26
+C0029,Lily Taylor,lily.taylor29@example.com,Leeds,Yorkshire,Corporate,2024-11-01
+C0030,Sophia Khan,sophia.khan30@example.com,Edinburgh,Scotland,Consumer,2025-01-17
+C0031,Sophia Patel,sophia.patel31@example.com,Reading,South East,Corporate,2024-11-27
+C0032,Amelia Jones,amelia.jones32@example.com,Liverpool,North West,Small Business,2024-09-02
+C0033,George Khan,george.khan33@example.com,London,London,Consumer,2025-05-12
+C0034,Lily Patel,lily.patel34@example.com,London,London,Consumer,2025-11-06
+C0035,Sophia Taylor,sophia.taylor35@example.com,Liverpool,North West,Corporate,2025-09-13
+C0036,George Patel,george.patel36@example.com,Manchester,North West,Corporate,2024-11-15
+C0037,Grace Evans,grace.evans37@example.com,Liverpool,North West,Small Business,2025-06-13
+C0038,Oliver Brown,oliver.brown38@example.com,Manchester,North West,Consumer,2024-12-12
+C0039,Arthur Patel,arthur.patel39@example.com,London,London,Corporate,2024-08-13
+C0040,Oliver Thomas,oliver.thomas40@example.com,London,London,Consumer,2024-03-10
+C0041,Jack Wilson,jack.wilson41@example.com,London,London,Corporate,2024-08-31
+C0042,Grace Davies,grace.davies42@example.com,Birmingham,Midlands,Corporate,2024-05-15
+C0043,Freya Khan,freya.khan43@example.com,Glasgow,Scotland,Consumer,2025-04-29
+C0044,George Jones,george.jones44@example.com,Manchester,North West,Corporate,2025-03-17
+C0045,Mia Johnson,mia.johnson45@example.com,Coventry,Midlands,Corporate,2024-02-25
+C0046,Grace Evans,grace.evans46@example.com,Edinburgh,Scotland,Consumer,2025-02-16
+C0047,Noah Jones,noah.jones47@example.com,Edinburgh,Scotland,Consumer,2024-07-13
+C0048,Leo Taylor,leo.taylor48@example.com,Sheffield,Yorkshire,Consumer,2024-10-12
+C0049,George Jones,george.jones49@example.com,Liverpool,North West,Corporate,2024-04-10
+C0050,Grace Patel,grace.patel50@example.com,London,London,Consumer,2024-08-30
+C0051,Mia Davies,mia.davies51@example.com,Brighton,South East,Consumer,2025-02-14
+C0052,Isla Johnson,isla.johnson52@example.com,London,London,Small Business,2024-09-28
+C0053,Ava Johnson,ava.johnson53@example.com,Liverpool,North West,Consumer,2024-07-13
+C0054,George Smith,george.smith54@example.com,Leicester,Midlands,Corporate,2025-07-09
+C0055,Muhammad Wilson,muhammad.wilson55@example.com,London,London,Consumer,2025-08-21
+C0056,Sophia Patel,sophia.patel56@example.com,Manchester,North West,Consumer,2025-06-04
+C0057,Jack Taylor,jack.taylor57@example.com,London,London,Corporate,2024-03-10
+C0058,Jack Brown,jack.brown58@example.com,Glasgow,Scotland,Consumer,2025-08-06
+C0059,Arthur Khan,arthur.khan59@example.com,Reading,South East,Corporate,2024-03-24
+C0060,Grace Khan,grace.khan60@example.com,Liverpool,North West,Small Business,2024-07-28
+C0061,Muhammad Wilson,muhammad.wilson61@example.com,Edinburgh,Scotland,Small Business,2025-02-09
+C0062,Grace Evans,grace.evans62@example.com,Brighton,South East,Small Business,2024-11-19
+C0063,Amelia Davies,amelia.davies63@example.com,London,London,Consumer,2025-07-04
+C0064,Sophia Williams,sophia.williams64@example.com,Reading,South East,Small Business,2024-03-11
+C0065,Noah Williams,noah.williams65@example.com,Reading,South East,Small Business,2025-07-10
+C0066,Ava Khan,ava.khan66@example.com,Edinburgh,Scotland,Corporate,2025-07-21
+C0067,Freya Evans,freya.evans67@example.com,Birmingham,Midlands,Consumer,2024-09-27
+C0068,Freya Jones,freya.jones68@example.com,London,London,Small Business,2024-10-15
+C0069,George Thomas,george.thomas69@example.com,Sheffield,Yorkshire,Consumer,2025-10-11
+C0070,Sophia Davies,sophia.davies70@example.com,Coventry,Midlands,Consumer,2024-04-04
+C0071,Mia Williams,mia.williams71@example.com,Edinburgh,Scotland,Consumer,2024-12-07
+C0072,Grace Williams,grace.williams72@example.com,Reading,South East,Corporate,2025-03-28
+C0073,Muhammad Johnson,muhammad.johnson73@example.com,Leeds,Yorkshire,Consumer,2024-03-18
+C0074,Freya Taylor,freya.taylor74@example.com,Edinburgh,Scotland,Small Business,2025-08-19
+C0075,Isla Johnson,isla.johnson75@example.com,Leeds,Yorkshire,Consumer,2024-11-11
+C0076,Freya Smith,freya.smith76@example.com,Coventry,Midlands,Consumer,2025-11-29
+C0077,Grace Jones,grace.jones77@example.com,Brighton,South East,Corporate,2025-02-20
+C0078,Muhammad Taylor,muhammad.taylor78@example.com,Leeds,Yorkshire,Consumer,2024-06-30
+C0079,Amelia Taylor,amelia.taylor79@example.com,Liverpool,North West,Small Business,2025-11-16
+C0080,Lily Brown,lily.brown80@example.com,Glasgow,Scotland,Consumer,2024-04-20
+C0081,Jack Smith,jack.smith81@example.com,Liverpool,North West,Consumer,2024-07-23
+C0082,Noah Williams,noah.williams82@example.com,Manchester,North West,Consumer,2024-01-25
+C0083,George Johnson,george.johnson83@example.com,Glasgow,Scotland,Small Business,2024-03-12
+C0084,Noah Evans,noah.evans84@example.com,Leicester,Midlands,Small Business,2025-11-26
+C0085,Noah Smith,noah.smith85@example.com,Leeds,Yorkshire,Small Business,2024-07-01
+C0086,Ava Smith,ava.smith86@example.com,Leeds,Yorkshire,Corporate,2025-03-20
+C0087,Muhammad Wilson,muhammad.wilson87@example.com,Coventry,Midlands,Corporate,2025-06-07
+C0088,Mia Khan,mia.khan88@example.com,London,London,Small Business,2024-02-15
+C0089,Mia Smith,mia.smith89@example.com,Edinburgh,Scotland,Small Business,2025-03-17
+C0090,Grace Wilson,grace.wilson90@example.com,London,London,Corporate,2024-05-07
+C0091,Freya Williams,freya.williams91@example.com,Glasgow,Scotland,Corporate,2025-02-22
+C0092,Mia Thomas,mia.thomas92@example.com,Coventry,Midlands,Corporate,2024-05-10
+C0093,Mia Evans,mia.evans93@example.com,Brighton,South East,Corporate,2024-06-27
+C0094,Arthur Williams,arthur.williams94@example.com,Sheffield,Yorkshire,Corporate,2024-01-01
+C0095,Ava Brown,ava.brown95@example.com,Coventry,Midlands,Corporate,2025-09-13
+C0096,Noah Davies,noah.davies96@example.com,Glasgow,Scotland,Small Business,2025-11-22
+C0097,Sophia Davies,sophia.davies97@example.com,Guildford,South East,Consumer,2025-11-05
+C0098,Ava Patel,ava.patel98@example.com,London,London,Consumer,2024-08-28
+C0099,Ava Brown,ava.brown99@example.com,Edinburgh,Scotland,Consumer,2024-01-26
+C0100,George Davies,george.davies100@example.com,London,London,Small Business,2025-02-28

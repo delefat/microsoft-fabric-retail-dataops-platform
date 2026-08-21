@@ -1,0 +1,3 @@
+OrderID,CustomerID,StoreID,OrderDate,OrderStatus,SourceUpdatedAt
+O000501,C0101,S006,2026-08-18,Completed,2026-08-18T09:10:00
+O000502,C0001,S001,2026-08-18,Completed,2026-08-18T09:11:00

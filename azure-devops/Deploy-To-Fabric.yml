@@ -1,0 +1,40 @@
+trigger:
+  branches:
+    include: [test, prod]
+  paths:
+    include: [fabric/**]
+parameters:
+- name: items_in_scope
+  type: string
+  default: '["Notebook","DataPipeline","Lakehouse","Warehouse","VariableLibrary"]'
+variables:
+- name: target_env
+  value: ${{ replace(variables['Build.SourceBranch'], 'refs/heads/', '') }}
+- group: fabric_cicd_group_sensitive
+- group: fabric_cicd_group_non_sensitive
+stages:
+- stage: DeployToFabric
+  jobs:
+  - deployment: Deployment
+    environment: $(target_env)
+    pool:
+      vmImage: ubuntu-latest
+    strategy:
+      runOnce:
+        deploy:
+          steps:
+          - checkout: self
+          - task: UsePythonVersion@0
+            inputs:
+              versionSpec: '3.12'
+          - script: pip install fabric-cicd azure-identity requests
+          - task: PythonScript@0
+            inputs:
+              scriptSource: filePath
+              scriptPath: '.deploy/deploy-to-fabric.py'
+              arguments: >-
+                --aztenantid $(aztenantid)
+                --azclientid $(azclientid)
+                --azspsecret $(azspnsecret)
+                --items_in_scope '${{ parameters.items_in_scope }}'
+                --target_env $(target_env)
