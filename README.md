@@ -1,2 +1,2 @@
-# fabric-dataOps-retail-analytics-platform
+# microsoft-fabric-retail-dataops-platform
 Modern Data Platform implementation built using Microsoft Fabric and DataOps engineering best practices.
