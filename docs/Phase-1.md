@@ -1,4 +1,4 @@
-\## Phase 1 — End-to-End Data Platform
+# Phase 1 — End-to-End Data Platform
 
 
 
