@@ -1,4 +1,4 @@
-\## Phase 2 — Modern DataOps
+# Phase 2 — Modern DataOps
 
 
 
